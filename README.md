@@ -21,7 +21,4 @@ q. Cardinal Spline Curve
 r. Ellipse Algorithms [Direct, polar and midpoint]
 s. Clipping algorithms using Rectangle as Clipping Window[Point ,Line, Polygon] 
 t. Clipping algorithms using Square as Clipping Window[Point ,Line]
-u. apply 2D transformation (translate and scale on lines)
-- Add 2D transformation menu with 2 menu items (translate and scale)
-- Enter the translate x,y values or scale x,y values through console
-- Apply the translate or scale selected on the last line drawn before selecting the transformation
+u. apply 2D transformation (translate and scale on lines) (Add 2D transformation menu with 2 menu items (translate and scale), Enter the translate x,y values or scale x,y values through console, Apply the translate or scale selected on the last line drawn before selecting the transformation)
